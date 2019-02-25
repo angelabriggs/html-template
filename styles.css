@@ -1,2 +1,31 @@
 /* CSS styles */
+body {font-family: sans-serif;
+font-size: 120%
+padding: 40px;
+max-width: 60em;
+margin: auto;}
+
+h1 {padding-left: 20px;
+color: teal;
+font-size:110;
+}
+
+p {color: grey;
+padding-left: 20px;}
+
+p.intro {color: darkorange;}
+
+img {
+  width: 25%;
+  float: right;
+  padding: 40px; 
+}
+
+ul {background-color: darkorange;
+padding:20px;
+  
+}
+
+ul.keyinfo {padding-left: 100px;
+color: teal}
 
